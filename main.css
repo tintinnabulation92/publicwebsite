@@ -1,0 +1,52 @@
+#container{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:lightgrey;
+	border:2px solid black;
+	padding:10px;
+	text-align:center;
+	color:black;
+}
+
+#logo {
+	background-color:yellow;
+}
+
+#nav{
+	float:left;
+	background-color:lightgrey;
+	width:120px;
+	min-height:620px;
+	padding:5px;
+	border:2px solid black;
+}
+
+#content{
+	float:left;
+	padding:20px;
+	width:640px;
+}
+
+#ad{
+	float:left;
+	width:160px;
+	min-height:620px;
+	padding:10px;
+	background-color:black;
+	
+}
+
+#footer{
+	clear:both;
+	background-color:white;
+	text-align:center;
+	padding:20px;
+	
+}
+
+#tabOfContent{
+	text-align:center;
+	color:black;
+	font-weight: bold;
+}
